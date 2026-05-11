@@ -61,7 +61,7 @@ h2 {
 
 header,
 footer {
-  background: yellow;
+  background: #e7e736;
   color: #62131a;
   width: 100%;
   display: flex;
@@ -103,7 +103,8 @@ footer .footer-list {
 
 .footer-list img {
   width: 4rem;
-  padding: o.5rem;
+  padding-top: 0.5rem;
+  cursor: pointer;
 }
 
 .bg-primary {
